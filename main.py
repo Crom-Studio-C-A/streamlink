@@ -30,7 +30,7 @@ def index():
     return "This program permits you to get direct access to streams by using Streamlink.\r\nIf you have a link that " \
            "needs to be treated, from this webpage, add /iptv-query?streaming-ip= *your URL*.\r\nNote that it will " \
            "work " \
-           "only on Streamlink-supported websites.\r\nEnjoy ! LaneSh4d0w. Special thanks to Keystroke for the API " \
+           "only on Streamlink-supported websites.\r\n Crom Studio 58 4168578289" \
            "usage. "
 
 
